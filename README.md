@@ -1,4 +1,4 @@
-# Array Parsing and Reformatting (Medium)
+# Task 2: Array Parsing and Reformatting (Medium)
 
 ## Prerequisites
 
