@@ -24,7 +24,7 @@ source venv/bin/activate
 
 3. Install required packages:
 ```bash
-pip install flask
+pip install Flask
 ```
 
 ## Running the Application
