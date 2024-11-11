@@ -42,7 +42,7 @@ The server will start on `http://localhost:5000`
 
 ### Transform Endpoint
 
-**URL:** `/transform`
+**URL:** `/`
 **Method:** `POST`
 **Content-Type:** `application/json`
 
@@ -90,7 +90,7 @@ The server will start on `http://localhost:5000`
 
 Using curl:
 ```bash
-curl -X POST http://localhost:5000/transform \
+curl -X POST http://localhost:5000/ \
      -H "Content-Type: application/json" \
      -d '[
          {"id": 3, "name": "Charlie", "category": "A", "sub_category": "Z"},
